@@ -1,7 +1,7 @@
 export default function Home(){
     return (
         <div id="contentdiv">
-            <h2>Welcome to my first react page</h2>
+            <h2>Welcome to my first react site</h2>
 
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 

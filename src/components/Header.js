@@ -6,7 +6,7 @@ export default function Header(){
                     :)
                 </h1>
                 <h1 id="subtitle">
-                    Baby's first react page
+                    Baby's first react site
                 </h1>
             </div>
         </div>
